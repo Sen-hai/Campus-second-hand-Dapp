@@ -1,0 +1,47 @@
+.good-info-container {
+    max-width: 800px; /* 调整最大宽度以适应页面 */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.page-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px; /* 增加标题底部边距 */
+}
+
+.info-section {
+    margin-bottom: 10px; /* 增加段落之间的垂直间距 */
+}
+
+.info-section img {
+    width: 80%; /* 图片宽度占据整行 */
+    height: auto; /* 保持长宽比 */
+    margin-bottom: 10px; /* 图片底部间距 */
+}
+
+.info-section p {
+    font-size: 22px; /* 增加字体大小以提高可读性 */
+    margin-bottom: 10px; /* 增加段落底部边距 */
+}
+
+.ant-btn {
+    margin-top: 20px; /* 按钮顶部边距 */
+}
+
+.purchase-notice {
+    margin-top: 20px; /* 顶部边距 */
+}
+
+.purchase-notice h2 {
+    font-size: 20px; /* 标题字体大小 */
+    margin-bottom: 10px; /* 底部边距 */
+}
+
+.purchase-notice p {
+    font-size: 16px; /* 段落字体大小 */
+    margin-bottom: 5px; /* 底部边距 */
+}
