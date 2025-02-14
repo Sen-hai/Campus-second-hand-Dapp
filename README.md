@@ -19,11 +19,7 @@
 | 8    | **信用体系**     | ⭐ 5 星评分系统（买卖双向）<br>📸 评价图片证据链存储<br>🏆 信用等级勋章体系                     |
 | 9    | **合约部署**     | 🛠️ Hardhat 全流程开发环境<br>🧪 自动化测试框架<br>🔗 合约验证插件支持                         |
 
-## 🔧 后端服务
-<p>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-</p>
+
 
 ## 🚀 快速开始
 
@@ -46,6 +42,18 @@ npx hardhat node
 
 # 4. 部署合约（新终端执行）
 npx hardhat run scripts/deploy.js --network localhost
+```
+## 🔧 后端服务
+<p>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+</p>
+
+### 后端启动
+```bash
+cd Nodejs
+npm install
+node app.js
 ```
 
 ### 前端启动
