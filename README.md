@@ -1,4 +1,4 @@
-# 🚀 基于 Solidity & Hardhat 的去中心化二手交易平台
+# 🚀 去中心化校园二手交易平台
 
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="25"/>
